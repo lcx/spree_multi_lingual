@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'spree_core', '~> 1.1.0'
   s.add_dependency 'i18n'
-  s.add_dependency 'globalize3', 'git://github.com/svenfuchs/globalize3.git'
+  s.add_dependency 'globalize3'
   s.add_dependency 'easy_globalize3_accessors'
   s.add_dependency 'routing-filter', '~> 0.3.1'
   s.add_dependency 'rack-contrib'
