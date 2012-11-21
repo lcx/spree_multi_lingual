@@ -1,3 +1,3 @@
 Spree::Core::Engine.routes.draw do
-  filter :locale, :exclude => /^\/$/
+  filter :locale, :exclude => /^\/admin/
 end
